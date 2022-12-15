@@ -1,0 +1,41 @@
+body {
+  background: #f3d9aa;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h1 {
+  color: rgb(175, 104, 33);
+  text-align: center;
+  margin: 20px 0;
+  font-weight: 600;
+}
+p {
+  text-align: center;
+  line-height: 1.5;
+  padding: 10px;
+}
+footer {
+  margin-top: 20px;
+  text-align: center;
+  word-spacing: 40px;
+  font-size: 18px;
+}
+a {
+  color: rgb(175, 104, 33);
+}
+a:hover {
+  color: peru;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  max-width: 450px;
+}
+.container {
+  margin-top: 30px;
+}
+#intro {
+  background: white;
+  border-radius: 10px;
+}
